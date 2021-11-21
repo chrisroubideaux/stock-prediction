@@ -1,7 +1,7 @@
 - Machine learning model based on stock market prediction using colab
 - Imports numpy, pandas, yfinance, plotly, fastai, ta
 - ticker used to fetch data APPL
-- Machhine learning Data science
+- Machhine learning, Data science
 - deployed 11/20/21
 
 <!---
